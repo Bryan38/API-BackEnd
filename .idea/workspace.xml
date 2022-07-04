@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65e66a30-4d85-4557-807b-0f812e5577a8" name="Changes" comment="last" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\bryan\.m2\wrapper\dists\apache-maven-3.8.4-bin\52ccbt68d252mdldqsfsn03jlf\apache-maven-3.8.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2B7qruaBX3IE5ym42ZXvfjNEVhe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ApiWeb" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="API-BackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fr.ynov.api.ApiWeb" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\bryan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65e66a30-4d85-4557-807b-0f812e5577a8" name="Changes" comment="" />
+      <created>1656267672626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656267672626</updated>
+      <workItem from="1656267673877" duration="581000" />
+      <workItem from="1656313680151" duration="105000" />
+      <workItem from="1656314643650" duration="9585000" />
+      <workItem from="1656870105447" duration="237000" />
+      <workItem from="1656870505497" duration="6000" />
+      <workItem from="1656881382820" duration="921000" />
+      <workItem from="1656949005849" duration="5761000" />
+      <workItem from="1656968491701" duration="560000" />
+      <workItem from="1656969157444" duration="323000" />
+    </task>
+    <task id="LOCAL-00001" summary="last">
+      <created>1656968354997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656968354997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="last" />
+    <option name="LAST_COMMIT_MESSAGE" value="last" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1179" y="591" key="#Assign_Data_Sources" timestamp="1656881554463">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1179" y="591" key="#Assign_Data_Sources/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656881554463" />
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656967102766">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656967102766" />
+    <state x="1085" y="383" key="#com.intellij.ide.util.MemberChooser" timestamp="1656881696358">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="383" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656881696358" />
+    <state x="1001" y="443" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1656949552656">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1001" y="443" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656949552656" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1656968985268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968985268" />
+    <state x="1151" y="597" width="257" height="277" key="Github.ShareDialog" timestamp="1656969234400">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1151" y="597" width="257" height="277" key="Github.ShareDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656969234400" />
+    <state x="3711" y="597" key="Github.ShareDialog/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1656968627825" />
+    <state x="1063" y="404" key="Github.UntrackedFilesDialog" timestamp="1656969268469">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1063" y="404" key="Github.UntrackedFilesDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656969268469" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1656968458718">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968458718" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1656968458717">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968458717" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1656968458717">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968458717" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1656968458717">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968458717" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1656969171679">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656969171679" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1656968357311">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968357311" />
+    <state x="987" y="299" width="683" height="801" key="find.popup" timestamp="1656968299406">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="987" y="299" width="683" height="801" key="find.popup/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968299406" />
+    <state x="1110" y="490" key="svn.repositoryBrowser" timestamp="1656968973828">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1110" y="490" key="svn.repositoryBrowser/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968973828" />
+    <state x="1108" y="473" key="svn4idea.import.options" timestamp="1656968972250">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1108" y="473" key="svn4idea.import.options/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1656968972250" />
+  </component>
+</project>
